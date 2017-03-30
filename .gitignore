@@ -1,0 +1,8 @@
+*.o
+*.static
+chntpw
+cpnt
+reged
+sampasswd
+samusrgrp
+
